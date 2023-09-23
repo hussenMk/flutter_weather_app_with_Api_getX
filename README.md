@@ -9,7 +9,7 @@ Weather app is open-source for Android & ios. It is build with Dart Language and
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
 
-<img src="" />
+<img src="https://github.com/hussenMk/notes-app-sqflite-getx/assets/82022968/35e53ce6-a3d9-459d-9eb2-9ba6862ecaea" />
 
 ## Features
 - Searchable location.
@@ -26,7 +26,7 @@ Weather app is open-source for Android & ios. It is build with Dart Language and
 
 | Light Mode | Dark Mode | 
 |------|-------|
-|<img src="https://github.com/hussenMk/flutter_weather_app_with_getX/assets/82022968/837fff2d-e1c1-4475-a4a8-2c515c6aee10" width="400">|<img src="https://github.com/hussenMk/flutter_weather_app_with_getX/assets/82022968/7c38d7cc-1888-431c-aaeb-3698e0673e49" width="400">|<img 
+|<img src="https://github.com/hussenMk/notes-app-sqflite-getx/assets/82022968/6f44861e-70fa-43ee-a3c6-d61508236a45" width="400">|<img src="https://github.com/hussenMk/notes-app-sqflite-getx/assets/82022968/5a4a2963-6805-4c69-ae30-89960364ff53" width="400">|<img 
 
 
 
