@@ -20,8 +20,6 @@ Weather app is open-source for Android & ios. It is build with Dart Language and
 
 
 ## Snapshots
-### Light Mode
-
 
 
 | Light Mode | Dark Mode | 
