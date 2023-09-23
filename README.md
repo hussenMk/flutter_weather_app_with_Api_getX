@@ -33,7 +33,6 @@ Weather app is open-source for Android & ios. It is build with Dart Language and
 
 ## Dependencies
 The following packages are needed for the development of this application.
--  `sqflite: ^2.2.8+4`  
 -  `get: ^4.6.6`
 -  `http: ^1.1.0`
 -  `jiffy: ^6.2.1`
